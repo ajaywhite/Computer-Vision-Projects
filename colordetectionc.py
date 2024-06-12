@@ -4,6 +4,7 @@ import numpy as np
 # Define the yellow color range in HSV (adjust as needed)
 lower_yellow = np.array([25, 100, 100])
 upper_yellow = np.array([35, 255, 255])
+#select different color for your images
 
 # Capture video from the default camera
 cap = cv2.VideoCapture(0)
