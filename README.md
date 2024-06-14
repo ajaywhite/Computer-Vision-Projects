@@ -1,5 +1,4 @@
-markdown
-Copy code
+
 # Color Detection with OpenCV
 
 ## Description
@@ -15,7 +14,7 @@ This project demonstrates how to perform real-time color detection using OpenCV.
 
 ## Demo
 
-![Color Detection Demo](path_to_demo_gif_or_image)
+![Color Detection Demo]("C:\Users\aajay\Videos\Aiseesoft Studio\Aiseesoft Screen Recorder\color detection output.mp4")
 
 ## Installation
 
@@ -23,5 +22,5 @@ To set up and run this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/color-detection-opencv.git
+   git clone [https://github.com/yourusername/color-detection-opencv.git](https://github.com/ajaywhite/Color-Detection-Model.git)
    cd color-detection-opencv
