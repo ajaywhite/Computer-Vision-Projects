@@ -20,7 +20,7 @@ def draw_label(frame, text, x, y, color):
     cv2.putText(frame, text, (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.6, color, 2, cv2.LINE_AA)
 
 # Capture video from the default camera
-cap = cv2.VideoCapture("C:/Users/aajay/Videos/Captures/child.mp4")
+cap = cv2.VideoCapture("Give your file path") # or "0" for videocapture
 
 while True:
     ret, frame = cap.read()  # Read a frame from the camera
