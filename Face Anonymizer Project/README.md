@@ -3,7 +3,6 @@
 ## Overview
 This project demonstrates how to anonymize faces in video streams using computer vision techniques. By detecting faces with MediaPipe and applying Gaussian blur using OpenCV, this tool can obscure faces in real-time or pre-recorded videos, protecting privacy effectively.
 
-![Face Anonymizer](https://example.com/demo_image.jpg) <!-- Replace with an actual screenshot or demo gif -->
 
 ## Features
 - **Real-Time Face Detection**: Utilizes MediaPipe's efficient face detection to identify faces in each video frame.
