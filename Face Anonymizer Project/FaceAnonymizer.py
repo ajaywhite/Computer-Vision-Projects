@@ -37,6 +37,13 @@ while cap.isOpened():
 
             print(x, y, w, h)
 
+            #check frame dimension
+             x = int(boxc.xmin * W)
+            y = int(boxc.ymin * H)
+            w = int(boxc.width * W)
+            h = int(boxc.height * H)
+
+
             #specify the region to face anonymizer
             roi = frame[y:y+h, x:x+w]
 
